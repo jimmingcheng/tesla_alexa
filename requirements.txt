@@ -1,0 +1,7 @@
+ask-sdk
+ask-sdk-core
+googlemaps
+mock==2.0.0
+pytest==4.0.1
+requests
+tesla_client==1.0.4

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body {
+    text-align: center;
+    font-family: Roboto;
+}
+
+p {
+    margin: 0px 40px 20px 40px;
+}
+
+h1 {
+    font-size: 64px;
+    color: #bbb;
+    margin: 60px 20px 0px 20px;
+}
+
+h2 {
+    font-size: 32px;
+    color: #333;
+    margin: 0px 0px 40px 0px;
+}
+
+input {
+    width: 200px;
+    margin: 10px 0px 0px 0px;
+    font-size: 16px;
+}
+
+#alert {
+    color: #d32323;
+    font-weight: bold;
+}

@@ -1,0 +1,7 @@
+*~
+.aws_service_settings
+__pycache__
+build/
+deploy.zip
+static/tesla_alexa_acct_link_settings.js
+venv/
